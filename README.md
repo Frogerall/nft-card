@@ -37,8 +37,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://github.com/Frogerall/nft-card](https://github.com/Frogerall/nft-card)
+- Live Site URL: [https://frogerall.github.io/nft-card/](https://frogerall.github.io/nft-card/)
 
 ## My process
 
