@@ -33,7 +33,7 @@ Users should be able to:
 
 #### Mobile Design
 
-![](images/nft-mobile.jpeg.jpg)
+![](images/nft-mobile.jpeg)
 
 ### Links
 
