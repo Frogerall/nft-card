@@ -4,6 +4,7 @@
  box-sizing: border-box;
  font-size: 1em;
  line-height: 1.5;
+ font-family: "Outfit", sans-serif;
 }
 body {
  background-color: hsl(217, 54%, 11%);
@@ -22,6 +23,7 @@ img {
  width: 20rem;
  color: hsl(215, 51%, 70%);
  margin: 1rem auto;
+ font-weight: 300;
  img {
   border-radius: 1rem;
  }
@@ -30,6 +32,7 @@ h1 {
  color: white;
  font-size: 18px;
  padding: 1rem 0;
+ font-weight: 600;
 }
 .num {
  display: flex;
@@ -53,6 +56,7 @@ h1 {
  justify-content: flex-start;
  align-items: center;
  color: hsl(215, 51%, 70%);
+ font-weight: 300;
  img {
   width: 2rem;
   margin: 1rem;
